@@ -1,0 +1,15 @@
+.calcbtn{
+    width: 25%;
+    font-size: 50px;
+}
+.calcbtn:hover{
+    background-color:rgb(214, 213, 213);
+}
+
+.clearbtn{
+    width:75%;
+    font-size: 50px;
+}
+.clearbtn:hover{
+    background-color:rgb(243, 183, 93);
+}
